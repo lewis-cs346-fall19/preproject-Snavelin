@@ -1,0 +1,4 @@
+The source code for google.com appears as if it was not designed for humans to 
+read. After I downloaded the html file, I opened it in a text editor and noticed that 
+there could be thousands of keywords and characters mushed together into a single 
+line.
