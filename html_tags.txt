@@ -1,0 +1,26 @@
+<p>
+This tag indicates a body of text in a webpage. The closing tag is optional and, 
+if left out, the next HTML tag is assumed to be the end of the text.
+
+<img>
+This tag is used to insert an image into a webpage.
+
+<a>
+This tag indicates a hyperlink to another webpage or file. 
+It can also be used to take the user to another part of the webpage the hyperlink 
+is located in. 
+
+<tr>
+This tag is used in the formatting of HTML tables. It groups together <th> and <td> 
+tags into a single table row.
+
+<td>
+This tag creates a single data cell in an HTML table. <td> elements need to be 
+written inside of a <tr> element. 
+
+<ul>
+This tag defines an unordered list of HTML elements. It holds a collection of <li>
+elements, which are not in any numerical order and can be rearranged freely.
+
+<li>
+This tag represents a list element that is a member of an ordered/unordered list.

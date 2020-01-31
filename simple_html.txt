@@ -1,0 +1,351 @@
+<html>
+<head><title>University of Arizona : CSC 346, Spring 20</title></head>
+<body>
+
+<center>
+  <font size="+3"><b>Class Homepage</b></font>
+  <br><font size="+2">CS 346 Spring 20</font>
+</center>
+
+
+
+<p>
+<hr>
+<a name="STAFF"></a>
+<font size="+2"><U>Staff</U></font>
+
+<table><tr>
+
+  <td width=300 align=center valign=bottom>
+    <img src="pics/russell_lewis_2019.jpg">
+
+    <p><b>Instructor:</b> Russell Lewis
+    <br><a href="mailto:russelll@cs.arizona.edu">russelll@cs</a>
+  </td>
+
+  <td width=300 align=center valign=bottom>
+    <img src="pics/iychoi.jpg">
+
+    <p><b>TA:</b> Illyoung Choi
+    <br><a href="mailto:iychoi@email.arizona.edu">iychoi@email</a>
+  </td>
+
+</tr></table>
+
+<!--
+  <p>Staff Email: <a href="mailto:cs346s20@cs.arizona.edu">cs346s20@cs.arizona.edu</a>
+  -->
+
+
+<hr>
+<a name="MEETINGS"></a>
+<font size="+2"><U>Meetings</U></font>
+
+<p>
+<b>Lecture:</b> TuTh 9:30-10:45 am - Gould/Simpson 856
+
+
+
+<hr>
+<a name="LINKS"></a>
+<font size="+2"><U>Links</U></font>
+
+<p>
+Class Links:
+
+<ul>
+   <li> Plan: <a href="346_Syllabus_Spring_20.pdf">Class syllabus</a> </li>
+   <li> Talk: <a href="https://piazza.com/arizona/spring2020/csc346/" target="_blank">Class Disscussions on Piazza</a> </li>
+   <li> <a href="https://d2l.arizona.edu/d2l/home/844867" target="_blank">D2L</a>:
+     <ul>
+        <li>Watch Panopto videos (click on "UA Tools", then "Panopto") </li>
+        <li>Check your grade </li>
+     </ul></li>
+
+   <li> <a href="https://github.com/">GitHub</a>
+     <ul>
+        <li>Turn in labs and projects </li>
+     </ul></li>
+
+   <li> <a href="https://www.awseducate.com/">Log in to AWS Education</a>
+
+</ul>
+
+<p>
+Information I need for grading:
+<ul>
+   <li> Let me know what your GitHub user ID is: <a href="https://userid-associator-dot-lecturer-russ.appspot.com/">UserID Associator</a> </li>
+</ul>
+
+<p>
+Looking for some hints, reminders, or debug info?  Check out my <b>Cloud HowTo</b>
+website:
+<ul>
+   <li> Read: <a href="https://cloud-howto-dot-lecturer-russ.appspot.com">https://cloud-howto-dot-lecturer-russ.appspot.com</a> </li>
+   <li> Contribute to the GitHub Repo: <a href="https://github.com/russ-lewis/cloud-howto">https://github.com/russ-lewis/cloud-howto</a> </li>
+ </li>
+</ul>
+
+<p>
+Other useful links:
+<ul>
+     <li><a href="https://www.putty.org/">PuTTY</a> - an ssh client for Windows
+
+         <p>Mac and Linux users won't need to use this, since those OSes
+            have ssh built-in; likewise, if you use the Linux Subsystem for
+            Windows 10, you can use ssh from the command line.
+
+         <p>If you are on an older version of Windows but you love the command
+            line (as you should!), you can also try out <a href="http://cygwin.org/">Cygwin</a>
+            This is, essentially, an open-source version of the Linux
+            Subsystem, which doesn't require Windows 10.
+     </li>
+</ul>
+
+<p>Struggling?  Advising has provided a list of contacts to help you if you (or your friend) are in need of counseling or help.
+
+<ul>
+  <li> <a href="crisis_contacts.pdf">crisis_contacts.pdf</a> </li>
+</ul>
+
+
+
+<hr>
+<a name="OFFICEHOURS"></a>
+<font size="+2"><u>Office Hours</u></font>
+
+<p>
+
+<table border=1>
+
+<tr>
+  <th>        </th>
+  <th>Email   </th>
+  <th>Day     </th>
+  <th>Time    </th>
+  <th>Location</th>
+</tr>
+
+<tr>
+  <td>Russell Lewis        </td>
+  <td> <a href="mailto:russelll@cs.arizona.edu">russelll@cs</a> </td>
+  <td> Mon     <br> Wed     </td>
+  <td> 9-11    <br> 10-12   </td>
+  <td> G/S 829 <br> G/S 837 </td>
+</tr>
+
+<tr>
+  <td>Illyoung Choi       </td>
+  <td> <a href="mailto:iychoi@email.arizona.edu">iychoi@email</a> </td>
+  <td>Tue   <br>Thu       </td>
+  <td>11-12 <br>11-1      </td>
+  <td>G/S 931 </td>
+</tr>
+
+</table>
+
+
+
+<hr>
+<a name="CONTACT_INFO"></a>
+<font size="+2"><U>Contacting Us</U></font>
+
+<p>
+The <b>best</b> place to ask a question is on <a href="https://piazza.com/arizona/spring2020/csc346/" target="_blank">Piazza</a>.
+Please ask most of your questions there!
+
+<!--
+<p>
+However, if you have a question which cannot be asked publicly (like asking
+for help with homework), then please use the email alias (which is sent to
+everyone on Staff): <a href="mailto:cs346s20@cs.arizona.edu">cs346s20@cs.arizona.edu</a>
+If you have something which is truly private, and you don't want to share it
+with all of the staff, you may email me (or any of the TAs) directly.
+  -->
+
+<p>
+For all emails, please start the subject line of your email with:
+<br><pre>   346: </pre>
+so that we know what it's about.
+
+
+
+<hr>
+<a name="TEXTBOOK"></a>
+<font size="+2"><U>Textbook</U></font>
+
+<p>
+This class does not have a textbook.
+
+
+
+<hr>
+<a name="TESTS"></a>
+<font size="+2"><U>Tests</U></font>
+
+<p>
+Test will be 50 minutes long, and held during the normal Lecture time.
+
+<p>
+Tests will be held on the following days:
+
+<ul>
+  <li> Midterm 1: Thu, Feb 27
+<!--
+       - <a href="tests/test1.pdf">(test)</a> <a href="tests/test1-sols.pdf">(solutions)</a></li>
+  -->
+  <li> Midterm 2: Thu, Apr 9
+</ul>
+
+<p>
+<b>Remember:</b> we will also have a Final Exam during Finals Week; this will
+be a 2 hour exam (longer than the other tests!).  It will be held on:
+<ul>
+  <li> Tue, May 12, 8-10 am </li>
+</ul>
+
+
+
+<hr>
+<a name="LECTURENOTES"></a>
+<font size="+2"><u>Lecture Slides</u></font>
+
+<p>
+
+TODO
+
+<ul>
+  <li> 00: <a href="slides/00_class_intro.pdf">    Class Intro  </a> </li>
+  <li> 01: <a href="slides/01_git.pdf">            Git          </a> </li>
+  <li>     02: <a href="slides/02_networking_A.pdf">   Networking (part A)</a>
+       <br>02: <a href="slides/02_networking_B.pdf">   Networking (part B)</a> </li>
+  <li> 03: <a href="slides/03_unix.pdf">           UNIX         </a> </li>
+<!--
+  <li> 04: <a href="slides/04_ec2.pdf">            EC2          </a> </li>
+  <li> 05: <a href="slides/05_html_and_cgi.pdf">   HTML and CGI </a> </li>
+  <li> 06: <a href="slides/06_SQL.pdf">            SQL          </a> </li>
+  -->
+</ul>
+
+
+
+<hr>
+<a name="PROJECTS"></a>
+<font size="+2"><U>Projects</U></font>
+
+<p>
+Most weeks, we will have a programming project; the projects will vary, based
+on the material we're covering in class.
+
+<p>
+Most projects will be due on Friday, at 5pm.
+
+<p>
+Each student is allowed 3 Late Days, which give 24 hours of grace on the due
+date of a project.  You may only use a <b>single</b> late day per project (no
+doubling).  Late Days cannot be used on the Pre-Project or the last project -
+and there may be special projects through the semester which are also
+restricted.
+
+<p>
+<table border=3>
+
+<tr><th> Item </th>
+    <th> Due  </th>
+    <th> GitHub Classroom Link </th> </tr>
+
+<tr><td> <a href="projects/preProject.pdf">PreProject</a> </d>
+    <td> <b><font color=red>Wed,</font></b> 22 Jan </td>
+    <td> <a href="https://classroom.github.com/a/fxHymNxv">https://classroom.github.com/a/fxHymNxv</a> </td></tr>
+
+<tr><td> <a href="projects/proj01.pdf">Project  1 - curl, HTTP Client</a> </d>
+    <td> Fri, 31 Jan </td>
+    <td> <a href="https://classroom.github.com/g/1G0sruAP">https://classroom.github.com/g/1G0sruAP</a> </td></tr>
+
+<tr><td> Project  2 - (coming soon) </d> <td> Fri,  7 Feb </td> <td></td></tr>
+<tr><td> Project  3 - (coming soon) </d> <td> Fri, 14 Feb </td> <td></td></tr>
+<tr><td> Project  4 - (coming soon) </d> <td> Fri, 21 Feb </td> <td></td></tr>
+<tr><td colspan=3 align=center><b><font color=red> -- Midterm 1, no project this week -- </font></b></td></tr>
+<tr><td> Project  5 - (coming soon) </d> <td> Fri,  6 Mar </td> <td></td></tr>
+<tr><td colspan=3 align=center><b><font color=red> -- Spring Break Mar 9-13 -- </font></b></td></tr>
+<tr><td> Project  6 - (coming soon) </d> <td> Fri, 20 Mar </td> <td></td></tr>
+<tr><td> Project  7 - (coming soon) </d> <td> Fri, 27 Mar </td> <td></td></tr>
+<tr><td> Project  8 - (coming soon) </d> <td> Fri,  3 Apr </td> <td></td></tr>
+<tr><td colspan=3 align=center><b><font color=red> -- Midterm 2, no project this week -- </font></b></td></tr>
+<tr><td> Project  9 - (coming soon) </d> <td> Fri, 17 Apr </td> <td></td></tr>
+<tr><td> Project 10 - (coming soon) </d> <td> Fri, 24 Apr </td> <td></td></tr>
+<tr><td> Project 11 - (coming soon) </d> <td> Fri,  1 May </td> <td></td></tr>
+
+<!--
+<tr><td> <a href="projects/proj02.pdf">Project  2 - curl, HTTP Server, Simple Websites, Intro to EC2 and UNIX</a> </d>
+    <td> Fri,  7 Feb </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj03.pdf">Project  3 - Apache and CGI, GET vs. POST</a> </d>
+    <td> Fri, 14 Feb </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj04.pdf">Project  4 - SQL queries and REST clients</a> </d>
+    <td> Fri, 21 Feb </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td colspan=3 align=center><b><font color=red> -- Midterm 1, no project this week -- </font></b></td></tr>
+
+<tr><td> <a href="projects/proj05.pdf">Project  5 - SQL in CGI, REST server, Redirects</a> </d>
+    <td> Fri,  6 Mar </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td colspan=3 align=center><b><font color=red> -- Spring Break Mar 9-13 -- </font></b></td></tr>
+
+<tr><td> <a href="projects/proj06.pdf">Project  6 - Web Frameworks using Flask</a> </d>
+    <td> Fri, 20 Mar </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj07.pdf">Project  7 - Webhooks and Queues</a> </d>
+    <td> Fri, 27 Mar </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj08.pdf">Project  8 - Google App Engine</a> </d>
+    <td> Fri,  3 Apr </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td colspan=3 align=center><b><font color=red> -- Midterm 2, no project this week -- </font></b></td></tr>
+
+<tr><td> <a href="projects/proj09.pdf">Project  9 - AWS Lambda</a> </d>
+    <td> Fri, 17 Apr </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj10.pdf">Project 10 - Docker and EC2 auto-scaling</a> </d>
+    <td> Fri, 24 Apr </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+
+<tr><td> <a href="projects/proj11.pdf">Project 11 - MapReduce</a> </d>
+    <td> Fri,  1 May </td>
+    <td> <a href="https://classroom.github.com/g/........">https://classroom.github.com/g/........</a> </td></tr>
+  -->
+
+</table>
+
+
+
+<hr>
+
+<p>Too funny: An aquaintance of mine wrote "<a href="psalm_193.txt">Psalm 193</a>"
+
+
+
+<!--
+<hr>
+<font size="+2"><u>Acknowledgements</u></font>
+
+<ul>
+  <li> Thanks to Dr. McCann for this website template, and also for
+       various course materials. </li>
+  <li> Thanks to Dr. Mercer and Dr. Homer for their consultation on
+       class design and organization. </li>
+</ul>
+-->
+
+</body> 
+</html>
+
